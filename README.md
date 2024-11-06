@@ -7,3 +7,4 @@ https://github.com/thotasriharsha/2159/blob/main/lab_6_AIML.ipynb
 https://github.com/thotasriharsha/2159/blob/main/LAB7.ipynb
 https://github.com/thotasriharsha/2159/blob/main/LAB08.ipynb
 https://github.com/thotasriharsha/2159/blob/main/LAB09.ipynb
+https://github.com/thotasriharsha/2159/blob/main/Lab_10(K_mean)_aiml.ipynb
